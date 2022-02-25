@@ -1,3 +1,16 @@
 h1{
     color: green
 }
+.center{
+    text-align: center;
+
+}
+.right{
+    text-align: right;
+}
+.pink{
+    background-color: pink;
+}
+#op{
+    background-color: aqua;
+}
